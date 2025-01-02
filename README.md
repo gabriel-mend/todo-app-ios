@@ -1,5 +1,7 @@
 # todo-app-ios
 
+<img src="./app.gif" width="100%"/>
+
 ## Sobre
 Aplicativo feito com swift para a contrução de um app de lista de tarefas.
 
